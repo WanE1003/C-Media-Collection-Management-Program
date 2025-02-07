@@ -1,4 +1,4 @@
-# C-Media-Collection-Management-Program 🎬
+# C++ Media Collection Management Program
 This project is a C++ program designed to manage various types of media data. The program reads data from CSV files and stores them in an appropriate data structure. It also provides sorting and data refinement features, utilizing STL containers for efficient data management and additional functionalities like calculating the average duration of episodes.
 
 # Program Structure 
